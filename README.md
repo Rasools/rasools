@@ -27,6 +27,7 @@ I summarize my scientific research interests as follows:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Quarto" src="https://img.shields.io/badge/-Quarto-43853d?style=flat-square&logo=Quarto&logoColor=white" />
+  <img alt="VS-code" src="https://img.shields.io/badge/-vscode-43853d?style=flat-square&logo=VS-code&logoColor=white" />
 
 </p>
 
