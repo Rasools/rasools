@@ -25,7 +25,7 @@ I summarize my scientific research interests as follows:
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=plastic&logo=R)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=plastic&logo=RStudio)](https://www.rstudio.com)
 [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=plastic&logo=python&logoColor=white)](https://www.python.org)
-![quarto](https://img.shields.io/badge/Quarto-5C2C91.svg?style=plastic&logo=quarto&logoColor=white)
+![quarto](https://img.shields.io/badge/Quarto-5C2C91.svg?style=plastic&logo=quarto&logoColor=black)
 ![matlab](https://img.shields.io/badge/Matlab-5C2D91.svg?style=plastic&logo=matlab&logoColor=white)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=plastic&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
