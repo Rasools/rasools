@@ -10,27 +10,11 @@
 
 <br />
 
-I'm a Bioinformatics data scientist. I summarize my scientific interests as following: 
+I'm a Bioinformatics data scientist. Currently, I support various computational biology projects in Sweden. I summarize my scientific research interests as follows: 
 
 - Precision medicine through omics analysis for biomarkers and drug targets discovery.
 - Developing computational platforms for integrative omics analysis.
 - Cell-line optimization via Systems-Biology-based approaches to improve quality and quantity of biotherapeutics production.
-
-
-
-**Talking about Personal Stuffs:**
-
-- 🔭 I am working as a research staff at National Bioinformatician Infrastructure Sweden, Science for Life laboratory
-- 👯 Part of a big group of bioinformatician at NBIS where I have a chance to interact with highly skilled people and get involved in big projects.  
-- 💬 Ask me about:
-  - Genome analysis
-  - Transcriptome/Genome assembly
-  - GWAS
-  - scRNASeq / RNASeq analysis
-  - Methylation
-  - Structural variation analysis
-  - Darks side of the genome; complex structure of genome (e.g. sex determination region in Atlantic herring, Skeletal atavism in Shetland ponies,...) 
-- ⚡ Check out my recent [Blogs](https://www.linkedin.com/in/rasool-saghaleyni/)
 
 **Languages and Tools:**
 
