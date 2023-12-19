@@ -10,7 +10,8 @@
 
 <br />
 
-I'm a Bioinformatics data scientist. Currently, I support various computational biology projects in Sweden. I summarize my scientific research interests as follows: 
+I'm Rasool, a Bioinformatics data scientist from  Tehran, Iran 🇮🇷, currently living in  Gothenburg, Sweden 🇸🇪
+Currently, I support various computational biology projects. I summarize my scientific research interests as follows: 
 
 - Precision medicine through omics analysis for biomarkers and drug targets discovery.
 - Developing computational platforms for integrative omics analysis.
