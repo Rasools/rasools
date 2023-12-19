@@ -18,17 +18,11 @@ I summarize my scientific research interests as follows:
 - Cell-line optimization via Systems-Biology-based approaches to improve quality and quantity of biotherapeutics production.
 
 <h3>Tools I mostly use</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-R-45b8d8?style=flat-square&logo=R&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=quarto&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Quarto" src="https://img.shields.io/badge/-Quarto-43853d?style=flat-square&logo=Quarto&logoColor=white" />
-  <img alt="VS-code" src="https://img.shields.io/badge/-vscode-43853d?style=flat-square&logo=VS-code&logoColor=white" />
-
-</p>
+[![jhc github](https://img.shields.io/badge/GitHub-jhrcook-181717.svg?style=flat&logo=github)](https://github.com/jhrcook)
+[![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
+[![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 
 ![Rasool's github stats](https://github-readme-stats.vercel.app/api?username=Rasools&show_icons=true&hide_border=true&hide=stars)
 
