@@ -29,6 +29,7 @@ I summarize my scientific research interests as follows:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+<br />
 
 ![Rasool's github stats](https://github-readme-stats.vercel.app/api?username=Rasools&show_icons=true&hide_border=true&hide=stars)
 
