@@ -10,7 +10,11 @@
 
 <br />
 
-Hi,I'm Rasool Saghaleyni🙌, a Bioinformatics data scientist. I love searching for patterns in data which roots in my interest in biology
+I'm a Bioinformatics data scientist. I summarize my scientific interests as following: 
+
+- Precision medicine through omics analysis for biomarkers and drug targets discovery.
+- Developing computational platforms for integrative omics analysis.
+- Cell-line optimization via Systems-Biology-based approaches to improve quality and quantity of biotherapeutics production.
 
 
 
@@ -33,7 +37,6 @@ Hi,I'm Rasool Saghaleyni🙌, a Bioinformatics data scientist. I love searching 
 :octocat:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Rasool's github stats](https://github-readme-stats.vercel.app/api?username=Rasools&show_icons=true&hide_border=true&hide=stars)
