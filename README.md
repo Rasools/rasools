@@ -11,7 +11,7 @@
 <br />
 
 I'm Rasool, a Bioinformatics data scientist from  Tehran, Iran 🇮🇷, currently living in  Gothenburg, Sweden 🇸🇪.
-I summarize my scientific research interests as follows: 
+I summarize my research interests as follows: 
 
 - Precision medicine through omics analysis for biomarkers and drug targets discovery.
 - Developing computational platforms for integrative omics analysis.
