@@ -17,6 +17,7 @@ I summarize my scientific research interests as follows:
 - Developing computational platforms for integrative omics analysis.
 - Cell-line optimization via Systems-Biology-based approaches to improve quality and quantity of biotherapeutics production.
 
+<br />
 
 ##Tools I mostly use##
 [![jhc github](https://img.shields.io/badge/GitHub-jhrcook-181717.svg?style=flat&logo=github)](https://github.com/jhrcook)
