@@ -1,11 +1,6 @@
 ### Hi there 👋 I am Rasool
 
-<a href="https://twitter.com/RaSaghaleyn">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rasool-saghaleyni/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+Read more about me here: https://rasools.github.io/
 <br />
 
 <br />
